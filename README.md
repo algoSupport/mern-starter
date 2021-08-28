@@ -1,4 +1,4 @@
-# Basic MERN Stack App
+# Basic MERN Starter Kit
 
 ### Front-End - React + Redux
 
